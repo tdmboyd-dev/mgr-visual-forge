@@ -1,5 +1,7 @@
 # Jev Read First — MGR Visual Forge
 
+Read `MGR-Beast-Pack/MGR-BEAST-PACK.md` as the current MGR BEAST operating handbook. Preserve this repository's product requirements and existing work records.
+
 ## Jev belongs after measurement/vision
 Use it for bounded choices such as provider/model lane, defect family, repair operator, pass/repair/rerender/escalate, retry/stop, asset relevance, and cost-quality routing.
 
